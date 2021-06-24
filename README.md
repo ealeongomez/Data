@@ -7,3 +7,5 @@
 - household_power_consumption.zip
 - jena_climate_2009_2016.csv.zip
 - time_machine.txt
+- zn1Data.csv
+- zn1Data_big.csv
